@@ -1,0 +1,53 @@
+element.style{
+    padding: 0px;
+    border: 0;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.selfie{
+    display: flex;
+    justify-content: center;
+}
+.intro1{
+    display: flex;
+    justify-content: center;
+}
+
+.intro{
+    border-color: navy;
+    border-width: 5px;
+    border-style: inset;
+    padding: 10px;
+    margin: 10px;
+}
+.aboutMeTitle{
+display: flex;
+justify-content: flex-start;
+}
+
+.blurb{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.aboutMe{
+    border-color: navy;
+    border-width: 5px;
+    border-style: inset;
+    padding: 10px;
+    margin: 10px;  
+}
+
+.myWork{
+    display: flexbox;
+    justify-content: flex-start; 
+}
+.portfolio{
+    display: flex;
+    justify-content: space-around;
+    border-color: navy;
+    border-width: 5px;
+    border-style: outset;
+    padding: 10px;
+    margin: 10px;
+}
